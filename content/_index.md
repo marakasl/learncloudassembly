@@ -23,7 +23,7 @@ As a <strong>Cloud Template Developer</strong>, you can:
     <li>Manage the deployed resources throughout the development life cycle.</li>
 </ul>
 
-If you want to find out more about vRealize Automation you can visit the official [product site](https://www.vmware.com/products/vrealize-automation.html), [view product features](https://cloud.vmware.com/vrealize-automation-cloud/features), or take a closer look at [Cloud Assembly](https://www.vmware.com/go/try-automate-hol). You can alse explore vRealize Automation Cloud with a [free 45-day trial](https://cloud.vmware.com/vrealize-automation-cloud/features#get-started).
+If you want to find out more about vRealize Automation you can visit the official [product site](https://www.vmware.com/products/vrealize-automation.html), [view product features](https://cloud.vmware.com/vrealize-automation-cloud/features), or take a closer look at [Cloud Assembly](https://www.vmware.com/go/try-automate-hol). You can alse explore vRealize Automation Cloud with a [free 45-day trial](https://www.vmware.com/products/vrealize-automation.html#cloud_assembly_form).
 
 {{< img src="cloud-Assembly-overview.png" alt="Cloud Assembly Overview" >}}
 
